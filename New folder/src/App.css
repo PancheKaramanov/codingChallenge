@@ -1,0 +1,42 @@
+.title {
+  display: flex;
+  justify-content: center;
+  color: white;
+}
+
+.header {
+  background-color: #333333;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.wrapper{
+  margin: 50px;
+}
+
+.table {
+  width: 1200px;
+}
+
+.random-quote {
+  width: 300px;
+}
+
+.links {
+  width: 300px;
+}
+
+.img {
+  width: 300px;
+}
+
+.link {
+  text-decoration: none;
+  margin: 10px;
+}
+
+.back-link {
+  text-decoration: none;
+  margin-top: 20px;
+}
